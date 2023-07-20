@@ -1,3 +1,8 @@
+/* Apply the base styles from Tailwind CSS*/
 @tailwind base;
+
+/* Include the pre-designed components from Tailwind CSS*/
 @tailwind components;
+
+/* Generate the utility classes based on the configuration in Tailwind CSS*/
 @tailwind utilities;
